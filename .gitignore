@@ -1,0 +1,11 @@
+bin/
+obj/
+dist/
+.vs/
+*.user
+*.suo
+TestResults/
+*.binlog
+
+# Istruzioni locali per l'assistente, non pubblicate
+CLAUDE.md
